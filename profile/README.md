@@ -1,2 +1,1 @@
-
-naber müdür
+<img src="anitsuki-banner.png" />
