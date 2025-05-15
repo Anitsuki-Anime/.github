@@ -1,1 +1,1 @@
-<img src="anitsuki-banner.png">
+<img src="anitsuki-banner.png" />
